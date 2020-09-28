@@ -1,0 +1,13 @@
+
+    {
+    "output": {
+        "encoding": "utf-8",
+        "fname": ""
+    },
+    "input": {
+        "csv": "t0_89.t1",
+        "encoding": "utf-8",
+        "json": "t0_89.t2"
+    }
+}
+    
